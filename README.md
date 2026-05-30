@@ -1,4 +1,4 @@
-# 🚁 Helicopter Simulation – Three.js
+# Helicopter Simulation – Three.js
 
 A fully interactive 3D helicopter simulation built with Three.js, custom shaders, and texture mapping.
 
